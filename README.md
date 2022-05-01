@@ -1,7 +1,7 @@
 > Messager Eric, Albin Crétal 
 > 2019
 > Automated blind
-> INO
+> INO/C++
 
 # AutomatedBlind
 
