@@ -1,13 +1,14 @@
-> Messager Eric, Albin Crétal 
-> 2019
-> Automated blind
-> INO/C++
+## Team
+- Messager Eric
+- Albin Crétal
 
-# AutomatedBlind
+## Subject 
+Automated blind
 
-It's my first huge project done :)
+## Languages
+- INO/C++
 
-Materials :
+## Materials :
 
 - 1 Actuator 22 rpm
 - 1 rolling blind 
@@ -19,4 +20,6 @@ Materials :
 - 2 touch sensors to up and down the blind
 - 2 relays
 - Arduino card + shield 
+
+It's my first huge project done :)
 
